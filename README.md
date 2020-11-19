@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+This package has moved to the Filecoin org at https://github.com/filecoin-project/go-hamt-ipld. The package here is now just a shim.
+
 go-hamt-ipld
 ==================
 
